@@ -1,4 +1,4 @@
-This is the *Pawns-Only Chess* project I made myself.
+This is the *Pawns-Only Chess* project I made myself
 
 Here's the link to the project: https://hyperskill.org/projects/182
 
